@@ -75,3 +75,46 @@ More datasets like MNIST, CIFAR-100, ImageNet subsets, and custom datasets will 
 
 ## 📂 Repository Structure
 
+Deep Learning/
+│
+├── Fashion_MNIST_CNN/
+│ ├── notebook.ipynb
+│ ├── results/
+│
+├── CIFAR10_CNN/
+│ ├── notebook.ipynb
+│ ├── results/
+│
+├── Concepts/
+│ ├── ANN_basics.ipynb
+│ ├── CNN_theory.md
+│
+└── README.md
+
+
+*(Structure will expand as more topics are added)*
+
+---
+
+## 📈 Learning Outcomes
+
+Through this repository I aim to:
+
+- Understand deep learning from basics to advanced  
+- Implement models from scratch  
+- Analyze model behavior using proper metrics  
+- Build projects useful for academics and placements
+
+---
+
+## 🤝 Contributions
+
+This is primarily a learning repository, but suggestions and improvements are always welcome!
+
+---
+
+### Author  
+**Arun Kumar**  
+Deep Learning Enthusiast  
+
+
